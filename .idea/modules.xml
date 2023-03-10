@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BYYAPI.iml" filepath="$PROJECT_DIR$/.idea/BYYAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/byy-backend/byy-backend.iml" filepath="$PROJECT_DIR$/byy-backend/byy-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/byy-gateway/byy-gateway.iml" filepath="$PROJECT_DIR$/byy-gateway/byy-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentences-client-sdk/sentences-client-sdk.iml" filepath="$PROJECT_DIR$/sentences-client-sdk/sentences-client-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentences-interface/weather-interface.iml" filepath="$PROJECT_DIR$/sentences-interface/weather-interface.iml" />
+    </modules>
+  </component>
+</project>

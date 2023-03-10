@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="byy-gateway" />
+        <module name="weather-interface" />
+        <module name="sentences-client-sdk" />
+        <module name="byy-backend" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="byy-backend" target="1.8" />
+      <module name="byy-gateway" target="1.8" />
+      <module name="sentences-client-sdk" target="1.8" />
+      <module name="weather-interface" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

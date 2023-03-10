@@ -1,0 +1,5 @@
+com\byy\byyclientsdk\client\ByyClient.class
+com\byy\byyclientsdk\model\Sentences.class
+com\byy\byyclientsdk\byyClientConfig.class
+META-INF\spring-configuration-metadata.json
+com\byy\byyclientsdk\utils\SignUtils.class
